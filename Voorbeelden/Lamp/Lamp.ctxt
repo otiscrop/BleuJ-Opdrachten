@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lamp()
+comment0.text=\r\n\ Constructor\ voor\ objecten\ van\ klasse\ Lamp\r\n\ Maakt\ een\ lamp\ op\ positie\ 100\r\n
+comment1.params=positie
+comment1.target=Lamp(int)
+comment1.text=\r\n\ Constructor\ voor\ objecten\ van\ klasse\ Lamp\r\n\ Maakt\ een\ lamp\ op\ de\ plaats\ aangegeven\ door\ positie\r\n
+comment2.params=
+comment2.target=void\ aan()
+comment2.text=\r\n\ Zet\ lamp\ aan\r\n
+comment3.params=
+comment3.target=void\ uit()
+comment3.text=\r\n\ Zet\ de\ lamp\ uit\r\n
+comment4.params=
+comment4.target=boolean\ isAan()
+comment4.text=\ \r\n\ Levert\ true\ als\ de\ lamp\ aan\ is,\ anders\ false\r\n
+comment5.params=
+comment5.target=void\ maakZichtbaar()
+comment5.text=\ \r\n\ Maak\ lamp\ zichtbaar\ in\ het\ uitvoervenster\r\n
+comment6.params=
+comment6.target=void\ teken()
+comment7.params=
+comment7.target=int\ getPositie()
+numComments=8
